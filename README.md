@@ -77,3 +77,5 @@ The **Abacus login** process is the key to unlocking a secure and private tradin
 
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/temp/focus.webp" alt="Abacus Login Guide" style="max-width: 100%;"></a>
 <a href="http://pzdv7uupqjj73qiq4ah6ivaczhb2wgj5mqtntetupzzvolvvuaecspyd.onion"><img src="/temp/tall.webp" alt="Abacus Registration Steps" style="max-width: 100%;"></a>
+
+Update:  07/07/2025 Email links
